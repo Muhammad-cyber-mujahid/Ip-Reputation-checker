@@ -1,0 +1,6 @@
+requests
+python-dotenv
+rich
+jinja2
+weasyprint
+python-docx
